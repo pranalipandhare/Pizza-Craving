@@ -167,7 +167,7 @@ header .nav li a:hover {
   position: relative;
   width: 100%;
   min-height: 100vh;
-  background: url(../images/w1.jpg) no-repeat;
+  background: url(../w1.jpg) no-repeat;
   background-size: cover;
   align-items: center;
   justify-content: center;
@@ -268,7 +268,7 @@ header .nav li a:hover {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
   height: 300px;
-  background: url(../images/p5.jpg);
+  background: url(../p5.jpg);
   background-size: cover;
   background-attachment: fixed;
   background-position: center;
@@ -460,7 +460,7 @@ header .nav li a:hover {
 .testi {
   min-height: 100vh;
   padding: 100px 0;
-  background: url(../images/bg.jpg) repeat;
+  background: url(../bg.jpg) repeat;
   background-size: 250px 250px;
 }
 .testi .titleText .section-title h2::before {
@@ -879,12 +879,12 @@ header .nav li a:hover {
     position: relative;
     width: 40px;
     height: 40px;
-    background: url(../images/menu-bar.png);
+    background: url(../menu-bar.png);
     cursor: pointer;
     filter: invert(1);
   }
   header .menuToggle.active {
-    background: url(../images/close-bar.png);
+    background: url(../close-bar.png);
     background-size: 40px;
     filter: invert(0);
     z-index: 100000;
